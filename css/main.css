@@ -359,5 +359,8 @@ nav li a:hover {
     display: -ms-flexbox;
     display: flex;
   }
+  .contact-right {
+    margin: 0;
+  }
 }
 /*# sourceMappingURL=main.css.map */
